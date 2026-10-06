@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.fc3bbc78.css",
+    "main.js": "./static/js/main.a468b7a0.js",
+    "static/js/453.b2fca5db.chunk.js": "./static/js/453.b2fca5db.chunk.js",
+    "static/media/Rubik-Bold.ttf": "./static/media/Rubik-Bold.d62658f24eb7c7dc739e.ttf",
+    "static/media/Rubik-Black.ttf": "./static/media/Rubik-Black.cd53051b6608d8737fa2.ttf",
+    "static/media/OpenSans_Condensed-Bold.ttf": "./static/media/OpenSans_Condensed-Bold.03769c307409d16ae32a.ttf",
+    "static/media/fx MitCatch.mp3": "./static/media/fx MitCatch.3a018903c7508d194bc9.mp3",
+    "static/media/Oswald-SemiBold.ttf": "./static/media/Oswald-SemiBold.c136d41d239de4903594.ttf",
+    "static/media/valis-iii-variant-2-genesis.otf": "./static/media/valis-iii-variant-2-genesis.c3db462fdd22cfb2012e.otf",
+    "index.html": "./index.html",
+    "main.fc3bbc78.css.map": "./static/css/main.fc3bbc78.css.map",
+    "main.a468b7a0.js.map": "./static/js/main.a468b7a0.js.map",
+    "453.b2fca5db.chunk.js.map": "./static/js/453.b2fca5db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc3bbc78.css",
+    "static/js/main.a468b7a0.js"
+  ]
+}
